@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyCommonUtils</string>
+
+
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="simple_confirm_title">提示</string>
+
+    <string name="permission_tip_location">- 获取手机位置信息的权限</string>
+    <string name="permission_tip_phone_state">- 获取电话设备信息的权限</string>
+    <string name="permission_tip_read_set">为保证您正常使用%1$s，需要您授予“读写系统设置项”的权限</string>
+    <string name="permission_tip_tail">请到手机“设置 - 应用 - %1$s - 权限”中设置授予以上权限</string>
+    <string name="permission_tip_title">为保证您正常使用%1s，需要您授予以下权限：</string>
+    <string name="permission_tip_write_storage">- 获取操作存储空间的权限</string>
+
+    <string name="loading">Loading…</string>
+</resources>

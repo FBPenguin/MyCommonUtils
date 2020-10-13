@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 可配置项 主题\登陆模式\语言模式 -->
+    <attr name="status_font_color" format="color"/>
+    <attr name="status_bg_color" format="color"/>
+    <attr name="status_system_bg_color" format="color"/>
+    <attr name="navbar_font_color" format="color"/>
+    <attr name="navbar_bg_color" format="color"/>
+    <attr name="app_bg_color" format="color"/>
+    <attr name="fragment_bg_color" format="color"/>
+</resources>
